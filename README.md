@@ -20,7 +20,7 @@ https://ashikmadhu.github.io/RoamBuddy/
 ## 🎬 Website Preview
 
 <p align="center">
-<img src="C:\Users\ASHIK\OneDrive\Desktop" width="700">
+<img src="" width="700">
 </p>
 
 *(Replace this GIF with your own screen recording for a better portfolio.)*
@@ -66,9 +66,7 @@ RoamBuddy
 │
 ├── index.html
 ├── style.css
-├── script.js
-├── images/
-└── assets/
+├── app.js
 ```
 
 ---
@@ -103,14 +101,6 @@ Open **index.html** in your browser.
 
 ---
 
-# 👨‍💻 Author
-
-**Ashik Madhu**
-
-GitHub
-https://github.com/ashikmadhu
-
----
 
 # ⭐ Support
 
