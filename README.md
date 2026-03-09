@@ -100,7 +100,6 @@ Open **index.html** in your browser.
 
 ---
 
-
 # ⭐ Support
 
 If you like this project:
