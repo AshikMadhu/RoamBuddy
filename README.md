@@ -20,10 +20,9 @@ https://ashikmadhu.github.io/RoamBuddy/
 ## 🎬 Website Preview
 
 <p align="center">
-<img src="" width="700">
+<img src="TravelBuddy.mp4" width="700">
+  (You can download the raw file.)
 </p>
-
-*(Replace this GIF with your own screen recording for a better portfolio.)*
 
 ---
 
